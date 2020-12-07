@@ -4,11 +4,11 @@ In order to keep a game session from dragging on, I will list some house rules t
 
 ## Rationale
 
-I understand that a lot of us love to analyze the situation in order to take the most effective action.  But I also believe that "analysis paralysis" is a real thing, and it can negatively impact the game.  (This is why all of us do the "nose goes" thing.)  I feel that keeping the combat snappy can mitigate some of this, and hopefully my house rules provide a good balance between analyzing the situation and winging it.
+I understand that a lot of us love to analyze the situation in order to take the most effective action.  But I also believe that "analysis paralysis" is a real thing, and it can negatively impact the game.  (This is why all of us do the "nose goes" thing.)  I feel that keeping the combat snappy can mitigate some of this, and can even produce some unintended fun side-effects, particularly if the player is forced to think on his/her feet from time to time. Hopefully my house rules provide a good balance between analyzing the situation and winging it.
 
 ## Metagame discussion time
 
-At the start of each round, the party will have 2 minutes to discuss strategies for the given round.  This can be things like the approach the group would like to take as a whole, and the goals for each individual player.  Ideally I would like this to be the planning phase and the actual turns to be the execution phase.  Things do not always go according to plan, so it is important to pay attention during the turn order so you can think of a alternate action or strategy if this happens.  You can ask the DM various questions about the combat environment during this phase or the turn phase, but note that some requests will require you to roll for it as your turn action if you want to pursue that.
+At the start of each round, the party will have 2 minutes to discuss strategies for the given round.  This can be things like the approach the group would like to take as a whole, and the goals for each individual player.  Ideally I would like this to be the planning phase and the actual turns to be the execution phase.  Of course things do not always go according to plan, so it is important to pay attention during the turn order so you can prepare a alternate action or strategy if this happens.  You can ask the DM various questions about the combat environment during this phase or the turn phase, but note that some requests will require you to roll for it as your turn action if you want to pursue that.
 
 ## Turn limit timer
 
