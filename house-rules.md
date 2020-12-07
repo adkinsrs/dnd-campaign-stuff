@@ -12,7 +12,7 @@ At the start of each round, the party will have 2 minutes to discuss strategies 
 
 ## Turn limit timer
 
-I will announce who's turn it is, and who is up next.  When it is your turn, you have 1 minute to perform your action.  Ideally you should already know what action you will perform and your target.  I will be lenient if you need to clarify something (like weapon/skill abilities) with the DM, but please do not try to use this as a stall tactic to have more thinking time.  If the minute passes and the action has not been performed, I will have your character perform a standard attack with your default weapon, if applicable.  Also I understand if an emergency happens that makes someone go AFK and we can work around this.
+I will announce who's turn it is, and who is up next.  When it is your turn, you have 1 minute to perform your action.  Ideally you should already know what action you will perform and your target.  I will be lenient if you need to clarify something (like weapon/skill abilities) with the DM, but please do not try to use this as a stall tactic to have more thinking time.  If the minute passes and the action has not been performed, I will have your character perform a dodge action, if applicable.  Also I understand if an emergency happens that makes someone go AFK and we can work around this.
 
 ## One last thing..
 
