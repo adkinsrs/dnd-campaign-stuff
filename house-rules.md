@@ -8,7 +8,7 @@ I understand that a lot of us love to analyze the situation in order to take the
 
 ## Metagame discussion time
 
-At the start of each round, the party will have 2 minutes to discuss strategies for the given round.  This can be things like the approach the group would like to take as a whole, and the goals for each individual player.  Ideally I would like this to be the planning phase and the actual turns to be the execution phase.  Things do not always go according to plan, so it is important to pay attention during the turn order so you can think of a alternate action or strategy if this happens.
+At the start of each round, the party will have 2 minutes to discuss strategies for the given round.  This can be things like the approach the group would like to take as a whole, and the goals for each individual player.  Ideally I would like this to be the planning phase and the actual turns to be the execution phase.  Things do not always go according to plan, so it is important to pay attention during the turn order so you can think of a alternate action or strategy if this happens.  You can ask the DM various questions about the combat environment during this phase or the turn phase, but note that some requests will require you to roll for it as your turn action if you want to pursue that.
 
 ## Turn limit timer
 
