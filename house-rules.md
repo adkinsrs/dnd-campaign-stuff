@@ -4,7 +4,7 @@ In order to keep a game session from dragging on, I will list some house rules t
 
 ## Rationale
 
-I understand that a lot of us love to analyze the situation in order to take the most effective action.  But I also believe that "analysis paralysis" is a real thing, and it can negatively impact the game.  (This is why all of us do the "nose goes" thing.)  I feel that keeping the combat snappy can mitigate some of this, and can even produce some unintended fun side-effects, particularly if the player is forced to think on his/her feet from time to time. Hopefully my house rules provide a good balance between analyzing the situation and winging it.
+I understand that a lot of us love to analyze the situation in order to take the most effective action.  But I also believe that "analysis paralysis" is a real thing, and it can negatively impact the game.  (This is why all of us do the "nose goes" thing.)  We have had fights where a single person takes up to 10 minutes for their turn... not round, turn, and this causes everyone to start to tune-out and compound the issue even further.  I feel that keeping the combat snappy can mitigate some of this, and can even produce some unintended fun side-effects, particularly if the player is forced to think on his/her feet from time to time. Hopefully my house rules provide a good balance between analyzing the situation and winging it.
 
 ## Metagame discussion time
 
